@@ -25,7 +25,6 @@ public class Solution {
         }
     }
     public int[] kWeakestRows(int[][] mat, int k) {
-        int[] strArray = new int[mat.length];
         int[] res = new int[k];
         PriorityQueue<RowStrInd> pq = new PriorityQueue<>();
         for(int i=0;i<mat.length;i++){

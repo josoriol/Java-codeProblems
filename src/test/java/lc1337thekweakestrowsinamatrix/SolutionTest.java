@@ -1,4 +1,4 @@
-package thekweakestrowsinamatrix;
+package lc1337thekweakestrowsinamatrix;
 
 import org.junit.Assert;
 import org.junit.Test;
